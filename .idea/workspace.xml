@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d3b6888-ae00-42c2-8faa-d3170ec0a60d" name="Default Changelist" comment="" />
+    <list default="true" id="1d3b6888-ae00-42c2-8faa-d3170ec0a60d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/calculator/Git.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.XML.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.XML.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -84,26 +98,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580833087776" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580834062626">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580848392082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580834062626" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580834062626">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580848392082" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580848392082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580834062626" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580834062626">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580848392082" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580848392082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580834062626" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580834062626">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580848392082" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580848392082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580834062626" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580848392082" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1580833052737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580833052737" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580916285296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580916285296" />
     <state x="65" y="60" key="new project wizard" timestamp="1580832656628">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
